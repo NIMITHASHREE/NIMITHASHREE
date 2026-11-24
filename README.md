@@ -3,7 +3,7 @@
   <p><strong>Full-stack developer · AI & systems explorer</strong></p>
   <p>Building thoughtful software for learning, collaboration, and everyday workflows.</p>
   <p>
-    <a href="https://github.com/NIMITHASHREE">GitHub</a>
+    <a href="https://nimithashree-portfolio.vercel.app">Portfolio</a> · <a href="https://github.com/NIMITHASHREE">GitHub</a>
   </p>
 </div>
 
