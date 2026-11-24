@@ -1,32 +1,52 @@
-# Nimitha
-
-### Full-stack developer · AI & systems
-
-I build useful software across the stack — from clear interfaces and dependable APIs to AI-powered learning tools and systems experiments.
-
-[🌐 Portfolio](https://nimithashree-portfolio.vercel.app) · [💼 LinkedIn](https://www.linkedin.com/in/nimithashree2007/) · [💻 GitHub repositories](https://github.com/NIMITHASHREE?tab=repositories)
+<div align="center">
+  <h1>Hi, I'm Nimitha 👋</h1>
+  <p><strong>Full-stack developer · AI & systems explorer</strong></p>
+  <p>Building thoughtful software for learning, collaboration, and everyday workflows.</p>
+  <p>
+    <a href="https://nimithashree-portfolio.vercel.app">Portfolio ↗</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/nimithashree2007/">LinkedIn ↗</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/NIMITHASHREE?tab=repositories">GitHub projects ↗</a>
+  </p>
+</div>
 
 ---
 
-## About
+## 👋 About
 
-I enjoy taking an idea from first sketch to a working product. My projects explore education, campus workflows, AI-powered search, real-time collaboration, and operating systems.
+I enjoy taking an idea from the first user problem to a working product: shaping the interface, connecting APIs and data, and polishing the details. My work spans learning tools, campus platforms, AI-powered search, real-time workflows, and operating-system concepts.
 
-## Selected projects
+## ✨ What I build
 
-- **[PRISM](https://github.com/NIMITHASHREE/PRISM)** — Placement preparation with learning paths, resume tools, AI mock interviews, mentorship, and progress tracking.
-- **[EventHub](https://github.com/NIMITHASHREE/TechTask_Event)** — Campus event discovery, student registration, and organizer workflows.
-- **[EduKno](https://github.com/NIMITHASHREE/EduKno)** — Education portal with semantic search, a RAG assistant, recommendations, and gamified learning.
-- **[FST Records](https://github.com/NIMITHASHREE/EduLedger)** · [React/Vite client](https://github.com/NIMITHASHREE/fst_client) — Faculty records, marks, attendance, and reporting.
-- **[MiniOS Pro](https://github.com/NIMITHASHREE/MiniOSPro)** — C++17 simulator for CPU scheduling, memory, filesystems, deadlock detection, and synchronization.
-- **[Industrial Visit Manager](https://github.com/NIMITHASHREE/Industrial-Vist-Management-System)** — Academic visit proposals, approvals, company coordination, and reporting.
+| Focus | Examples |
+| --- | --- |
+| Product engineering | Clear interfaces, useful workflows, and end-to-end web applications |
+| AI & knowledge tools | Semantic search, RAG assistants, mock interviews, and recommendations |
+| Systems & fundamentals | C++ simulations for scheduling, memory, filesystems, and synchronization |
 
-## Tech stack
+## 🚀 Featured projects
+
+| Project | What it explores |
+| --- | --- |
+| [PRISM](https://github.com/NIMITHASHREE/PRISM) | Placement prep with learning paths, resume tools, AI mock interviews, mentorship, and progress tracking |
+| [EventHub](https://github.com/NIMITHASHREE/TechTask_Event) | Campus event discovery, student registration, and organizer workflows |
+| [EduKno](https://github.com/NIMITHASHREE/EduKno) | Semantic search, a RAG assistant, recommendations, and gamified learning |
+| [FST Records](https://github.com/NIMITHASHREE/EduLedger) · [React/Vite client](https://github.com/NIMITHASHREE/fst_client) | Faculty records, marks, attendance, and reporting |
+| [MiniOS Pro](https://github.com/NIMITHASHREE/MiniOSPro) | C++17 simulator for CPU scheduling, memory, filesystems, deadlock detection, and synchronization |
+| [Industrial Visit Manager](https://github.com/NIMITHASHREE/Industrial-Vist-Management-System) | Academic visit proposals, approvals, company coordination, and reporting |
+
+## 🧰 Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,vite,js,html,css,nodejs,express,py,fastapi,spring,mongodb,postgres,sqlite,cpp,git,github&amp;perline=9&amp;theme=dark" alt="React, TypeScript, Vite, JavaScript, HTML, CSS, Node.js, Express, Python, FastAPI, Spring Boot, MongoDB, PostgreSQL, SQLite, C++, Git, and GitHub" />
 </p>
 
-**Backend & realtime:** FastAPI · Spring Boot · Socket.IO
+- **Frontend:** React · TypeScript · Vite · HTML · CSS · JavaScript
+- **Backend & APIs:** Node.js · Express · FastAPI · Spring Boot
+- **Data & realtime:** MongoDB · SQLite · PostgreSQL · Socket.IO
+- **Systems:** C++17 · operating systems · synchronization
 
-**Interests:** RAG · semantic search · recommendation systems · operating systems
+## 🔭 Exploring
+
+RAG and semantic search · recommendation systems · real-time collaboration · operating systems
